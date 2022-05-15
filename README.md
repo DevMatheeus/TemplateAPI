@@ -1,4 +1,4 @@
-# **Basic GraphQL Template v3.097**
+# **Template API Básico v0.01**
 
 ## **Como usar?**
 
