@@ -13,14 +13,14 @@ Output:
 ```js
 {
   karma: 653,
-  firstName: 'Naflyy',
-  lastName: 'Insion',
-  bio: 'Hey There XD',
+  firstName: 'MatheeusDev',
+  lastName: 'Sim',
+  bio: 'Biografia',
   isVerified: true,
-  timeCreated: '2020-09-09T12:47:49.218Z',
+  timeCreated: '2022-05-09T12:47:49.218Z',
   isLoggedIn: false,
-  organization: { name: 'InsionDev' },
-  subscription: { planId: 'hacker2' },
-  roles: [ { name: 'self learner' }, { name: 'explorer' } ]
+  organization: { name: 'Equipe' },
+  subscription: { planId: 'Sua colocação' },
+  roles: [ { name: 'Nome do Cargo' }, { name: 'explorer' } ]
 }
 ```
