@@ -2,7 +2,7 @@
 
 ## **Como usar?**
 
-Everything is already set up! Simply replace the `[username]` field when you call the `getData` function!
+Já está tudo configurado! Simplesmente substitua o campo `[username]` ao chamar a função `getData`
 
 Exemplo:
 ```js
